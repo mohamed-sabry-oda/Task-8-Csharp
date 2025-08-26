@@ -1,0 +1,15 @@
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\bin\Debug\net5.0\Task 7 Csharp interface.exe
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\bin\Debug\net5.0\Task 7 Csharp interface.deps.json
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\bin\Debug\net5.0\Task 7 Csharp interface.runtimeconfig.json
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\bin\Debug\net5.0\Task 7 Csharp interface.runtimeconfig.dev.json
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\bin\Debug\net5.0\Task 7 Csharp interface.dll
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\bin\Debug\net5.0\Task 7 Csharp interface.pdb
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.AssemblyInfoInputs.cache
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.AssemblyInfo.cs
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.dll
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\refint\Task 7 Csharp interface.dll
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.pdb
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\Task 7 Csharp interface.genruntimeconfig.cache
+C:\Users\mohamed\Desktop\Task 7 Csharp interface solution\Task 7 Csharp interface\obj\Debug\net5.0\ref\Task 7 Csharp interface.dll

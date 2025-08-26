@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\iwritable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|c:\\users\\mohamed\\desktop\\task 7 csharp interface solution\\task 7 csharp interface\\interface\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33EF96C-5C90-4B51-8CE6-0BC59E350613}|Task 7 Csharp interface\\Task 7 Csharp interface.csproj|solutionrelative:task 7 csharp interface\\interface\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Rectangle.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:45:45.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Shape.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Shape.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Shape.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Shape.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:41:35.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWritable.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IWritable.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\IWritable.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IWritable.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\IWritable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:37:18.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IReadable.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\IReadable.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IReadable.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:36:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\Car.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\Car.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\Car.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\Car.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:17:27.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IMovable.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\IMovable.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IMovable.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\IMovable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:12:17.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\Circle.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\Circle.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\Circle.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\Circle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:05:11.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\Rectangle.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:41:30.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IShape.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\IShape.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\IShape.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\IShape.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:35:38.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Program.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Program.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Program.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:34:21.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\File.cs",
+              "RelativeDocumentMoniker": "Task 7 Csharp interface\\Interface\\File.cs",
+              "ToolTip": "C:\\Users\\mohamed\\Desktop\\Task 7 Csharp interface solution\\Task 7 Csharp interface\\Interface\\File.cs",
+              "RelativeToolTip": "Task 7 Csharp interface\\Interface\\File.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:39:14.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
