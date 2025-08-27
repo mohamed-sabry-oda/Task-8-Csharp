@@ -1,0 +1,15 @@
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\bin\Debug\net5.0\Task 8 Csharp.exe
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\bin\Debug\net5.0\Task 8 Csharp.deps.json
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\bin\Debug\net5.0\Task 8 Csharp.runtimeconfig.json
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\bin\Debug\net5.0\Task 8 Csharp.runtimeconfig.dev.json
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\bin\Debug\net5.0\Task 8 Csharp.dll
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\bin\Debug\net5.0\Task 8 Csharp.pdb
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.AssemblyInfoInputs.cache
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.AssemblyInfo.cs
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.dll
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\refint\Task 8 Csharp.dll
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.pdb
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\Task 8 Csharp.genruntimeconfig.cache
+C:\Users\mohamed\Desktop\Task 8 Csharp solution\Task 8 Csharp\obj\Debug\net5.0\ref\Task 8 Csharp.dll
